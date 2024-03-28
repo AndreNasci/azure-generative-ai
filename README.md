@@ -54,7 +54,7 @@ Nesse laboratório, utilizo algumas funcionalidades da IA generativa para gerar 
 
 
 
-Esses experimentos foram baseados nos guias da Microsoft Learn. Para informações mais detalhadas, consulte a página [Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html). Esse readme foi escrita com auxílio de uma IA generativa.
+Esses experimentos foram baseados nos guias da Microsoft Learn. Para informações mais detalhadas, consulte a página [Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html). Esse readme foi escrito com auxílio de uma IA generativa.
 
 
 
